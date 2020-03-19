@@ -1,0 +1,8 @@
+{
+	"URLs": [
+	{
+		"alias":"Production_3D",
+		"scene":"../Scene/Production_3D.3mx"
+	}
+	]
+}
